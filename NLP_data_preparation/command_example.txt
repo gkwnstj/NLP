@@ -1,0 +1,10 @@
+1. Show the structure of your codes and give the example command to reproduce your result
+
+There's no constructure. You can modify the parameter in model script.
+
+max-len-w 10
+max-len-s 20
+char-dim 100
+lr 0.0001    (Adam default value)
+n_epochs 20
+batch-size 32
